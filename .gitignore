@@ -1,0 +1,22 @@
+# Unreal Engine generated folders — safe to regenerate
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE/editor generated files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.sln.docstates
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
